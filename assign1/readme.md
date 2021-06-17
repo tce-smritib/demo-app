@@ -9,7 +9,7 @@
 - On launch of App there will be a list of topics
 
 ## screen2 : video and notes
-### reference: ![Alt text](https://github.com/tataclassedge/demo-app/blob/main/assign1/Screenshot%202020-10-05%20at%204.23.25%20PM.png?raw=true "Optional Title")
+### reference: ![Alt text](https://github.com/classedge/demo-app/blob/main/assign1/Screenshot%202020-10-05%20at%204.23.25%20PM.png?raw=true "Optional Title")
 
 - the video will play on click of any topic
 - user can add notes on video and will be stored on a state
