@@ -6,23 +6,14 @@
 
 ## screen1 : list of topics
 
-- On launch of App there will be a list of topics
+- On launch of App there will be a list of topics (Maths, Science, English, History)
 
-## screen2 : video and notes
-### reference: ![Alt text](https://github.com/classedge/demo-app/blob/main/assign1/Screenshot%202020-10-05%20at%204.23.25%20PM.png?raw=true "Optional Title")
-
-- the video will play on click of any topic
-- user can add notes on video and will be stored on a state
-- video will have cue points where notes are added
-- on reach of a cue point the video will pause and note will be displayed on a overlay container on bottom
-- once click on the notes it will disappear and the video will resume
-- on next time the user comes the video state will be maintained via state
-- on the end of the video the quiz will launch
-
-## screen3 : quiz
+## screen2 : quiz
 
 ### Reference: https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 
+- the Quiz will play on click of any topic
+- Fetch the json file for Quiz Questions.
 - the quiz will have 3 layouts: vertical, horizontal and grid
 - the grid layout reference is given in a sample video, other 2 can be derieved from it only
 - the effects and animations to be achieved as much as yu can
@@ -35,7 +26,7 @@
 - on next time the user comes the questions state will be maintained via state
 - after the last question the summary screen will come
 
-## screen4 : summary
+## screen3 : summary
 - the last screen will be summry of quiz 
 - score and time taken for each question
 
