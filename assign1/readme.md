@@ -16,7 +16,7 @@
 - Fetch the json file for Quiz Questions.
 - the quiz will have 3 layouts: vertical, horizontal and grid
 - the grid layout reference is given in a sample video, other 2 can be derieved from it only
-- the effects and animations to be achieved as much as yu can
+- the effects and animations to be achieved as much as you can
 - but the basic zoom in out of a option after ckick has to be there
 - the correct and incorrect animation can be a placeholder animation
 - on incorrect the user will be shown incorrect on the same manner the correct is showing, but the question will not go next, whereas in case of correct it will go next after the get ready animation is played
